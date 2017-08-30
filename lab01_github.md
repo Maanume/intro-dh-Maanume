@@ -25,7 +25,7 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
 ## *"A Favorite Quote"*
 
 
-> History, despite its wrenching pain, cannot be unlived, but if faced with courage, need not be lived again.
+> History, despite its wrenching pain, cannot be unlived, but if faced with courage, need not be lived again. - Maya Angelou
 
 
 
