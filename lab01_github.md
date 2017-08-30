@@ -34,7 +34,7 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/2560px-Tsunami_by_hokusai_19th_century.jpg)
 [The Great Wave off](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa)
 
-## *"A Favorite Photo"*
+## *Questions for Class*
 
 1. What are different methods to gathering data and researching different topics?
 2. How can I apply what I learn in this class to other disciplines?
