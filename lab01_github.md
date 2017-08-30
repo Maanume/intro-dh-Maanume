@@ -31,8 +31,8 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
 
 ## *"A Favorite Photo"*
 
-![alt text](http://www.klimt.com/documents/pictures/en/women/klimt-der-kuss-1908.jpg)
-[The Kiss](http://www.klimt.com/en/gallery/women.html)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/2560px-Tsunami_by_hokusai_19th_century.jpg)
+[The Great Wave off](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa)
 
 ## *"A Favorite Photo"*
 
