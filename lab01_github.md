@@ -22,4 +22,24 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
  
  Create your response below this line. 
  ------------------
+## *"A Favorite Quote"*
 
+
+> History, despite its wrenching pain, cannot be unlived, but if faced with courage, need not be lived again.
+
+
+
+## *"A Favorite Photo"*
+
+![alt text](http://cdn1-www.dogtime.com/assets/uploads/gallery/labradoodle-dog-breed-pictures/side-1.jpg)
+[DogTime](http://dogtime.com/dog-breeds/labradoodle#/slide/1)
+
+## *"A Favorite Photo"*
+
+1. What are different methods to gathering data and researching different topics?
+2. How can I apply what I learn in this class to other disciplines?
+* History.
+* Anthropology. 
+* Film Studies.
+3. What different programs will be used in this course?
+4. What fields I can enter with this knowledge?
