@@ -31,8 +31,8 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
 
 ## *"A Favorite Photo"*
 
-![alt text](http://cdn1-www.dogtime.com/assets/uploads/gallery/labradoodle-dog-breed-pictures/side-1.jpg)
-[DogTime](http://dogtime.com/dog-breeds/labradoodle#/slide/1)
+![alt text](http://www.klimt.com/documents/pictures/en/women/klimt-der-kuss-1908.jpg)
+[The Kiss](http://www.klimt.com/en/gallery/women.html)
 
 ## *"A Favorite Photo"*
 
