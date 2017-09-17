@@ -7,7 +7,7 @@ For each reading, pick two sentence/passages. One should be where the had an AHA
 ### 2017-09-18: Distant reading
 "We need distant reading, Moretti argues, because its opposite, close reading, can’t uncover the true scope and nature of literature. Let’s say you pick up a copy of “Jude the Obscure,” become obsessed with Victorian fiction and somehow manage to make your way through all 200-odd books generally considered part of that canon. Moretti would say: So what? As many as 60,000 other novels were published in 19th-century England — to mention nothing of other times and places."
  
-I understand this desire to understand all literature in a period; to see if plot structures are the same, if protagonists interact with other characters the same on average, etc. I think it interesting to think about if we, human beings, can define a literature age by qualitative data found within it.
+I understand this desire to understand all literature in a period; to see if plot structures are the same, if protagonists interact with other characters the same on average, etc. I think it interesting to think about if we, human beings, can define a literature age by quantitative data found within it.
 
 "The trouble is that Moretti isn’t studying a science. Literature is an artificial universe, and the written word, unlike the natural world, can’t be counted on to obey a set of laws. Indeed, Moretti often mistakes metaphor for fact."
 
