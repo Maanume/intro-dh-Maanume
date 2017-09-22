@@ -1,3 +1,6 @@
+
+ [ Data Sets Link](https://docs.google.com/spreadsheets/d/1IMQyoT5I-7cYmjJseBBR_AGh6E-suxgvA3gNTl4LQXc/edit#gid=0)
+
 The humanities topic that guided this data collection is the topic of bestseller books in relation to the major 
 publishing company of HarperCollins Publishers. I wanted to see what types of books and authors made it 
 onto their 2016 bestseller list. 
