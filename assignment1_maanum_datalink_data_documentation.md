@@ -41,4 +41,6 @@ Author Name | variable character | | 10 | Name of author found on 2016 bestselle
 Age | number | NN | 10 | Age of the author | 50 |
 Number of books published | number | NN | 10 | the number of the author's books published | 30 |
 Male or Female | categorial | | 10 | Identifying the author as male or female | female |
+Country of Origin | categorial | | 10 | Identifying the country of origin of the author using the ISO 3166-1 alpha-3 code |
 
+Note: I just realized that I did not add Country of Origin to my table, and I wanted to have my table complete. I understand if this affects my grade since it is coming in late.
