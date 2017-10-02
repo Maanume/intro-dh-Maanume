@@ -61,6 +61,51 @@ Topic Modeling: Introduction
 
 ### 2017-10-02: Topic Modeling II
 
+Harper Lee Reading
+
+"The researchers used a computer program to tally the frequency of common words 4 —“the,” “a,” “he,” “she”—and other “function” words that they said typically make up 50% of a novel. Both Ms. Lee and Mr. Capote sent out clear signals of authorship based on how often they used such words—a result that scholars in the growing field of digital
+humanities have found with other writers, too."
+
+What other tools are used to determine an author? If authors have very similar patterns, are there other patterns that are looked for? How distinctive are authors in their use of common words?
+
+"Other parts of the text mining study strongly attest to Ms. Lee’s voice."
+
+Is there anyway to be a hundred percent certain that an author wrote a work based on word patterns? I also wonder how often other authors influence one another and this can impact writing styles.
+
+Trump Reading
+
+"When Trump wishes the Olympic team good luck, he’s tweeting from his iPhone. When he’s insulting a rival, he’s usually tweeting from an Android."
+
+This is probably a really dumb question, but how can you tell that a tweet was posted on an iphone vs an andriod? I have never noticed that on Twitter. Could you also do this same type of text analysis on other social media like Facebook using the same program?
+
+"Trump on the Android does a lot more tweeting in the morning, while the campaign posts from the iPhone more in the afternoon and early evening."
+
+Looking at the time people post things on social media would be an interesting study to see how the info posted differs at different periods. It would also be cool to use this to see if people in certain regions or countries have similar social media habits.
+
+Mining the Dispatch
+
+"This distribution has much to recommend it. About 14% of the piece comes from the topic I've labeled "entertainment and culture"—reasonable as this has something to do with fashion."
+
+Did they get groups of words and create the topic names themselves, similar to what we did with MALLET?
+
+"Could it be that enslaved African American men and women destabilized the slave hiring market by using the chaos of war mobilization in and around Richmond to run away in increasing numbers? This is a question that can be formulated from but not answered by these graphs alone, that will require using more traditional research methods to investigate."
+
+It super cool that this type of program can generate topics and results that could then lead to new historical research or ask questions that haven't been discussed before.
+
+Sing At 40
+
+"The assumption operative in this type of graph is that scholarship can be viewed as conversations among various participants represented by particular sources; sources that tend to be cited together are being put into conversation with one another and are thus representative of a particular strain or school of thought within a field."
+
+I think its interesting that a graph can show a specific strain of thought, something that may have not been connected before this specific program was done.
+
+"The size of each circle is a function of the number of total citations it has accrued. The thickness of the links between nodes is a function of the number of times the sources have been cited together. The color of the nodes is determined by the Louvain community-detection algorithm."
+
+How do you create a graph with this data and create this specified information in relation to color and thickness links?
+
+
+
+
+
 ### 2017-10-09: Stylometry
 
 ### 2017-10-18: Spatial history
