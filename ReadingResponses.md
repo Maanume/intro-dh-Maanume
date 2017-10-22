@@ -108,7 +108,45 @@ How do you create a graph with this data and create this specified information i
 
 ### 2017-10-09: Stylometry
 
-### 2017-10-18: Spatial history
+### 2017-10-23: Spatial history
+
+Bodenhamer Reading: 
+
+"In this sense, then, the meaing of space, especially as plce or landscape,is always being constructed through the various contests that occur over power."
+
+As a humanities major and minor, I have learned and discussed how space is defined, who is defines it, and what this definitions mean to others. I think it would be intersting to map how different people define a space, if opinions differ or not. This also reminds me of the digital project that was shown to us about how ideas are spread, I think this in a way could be defining a space by how ideas flow.
+
+"Virtual GIS combines the elements of virtual reality and serious gaming, with the spatial analytic and data-handling capability of GIS to provide an immersive and experiential environment that mimics what historians often seek in their written descriptions of the past."
+
+I understand that virtual GIS gives historians the tools to create environments in relation to their understandings of the past, but how indepth are these creations. What is the most complex environment every made with GIS, how many layers does it contain? Do we know all that is possible with GIS?
+
+White Reading- What is Spatial History?
+
+"visualization and spatial history are not about producing illustrations or maps to communicate things that you have discovered by other means. It is a means of doing research; it generates questions that might otherwise go unasked, it reveals historical relations that might otherwise go unnoticed, and it undermines, or substantiates, stories upon which we build our own versions of the past."
+
+I think this is applicable to the other tools of digital humanities we have looked at. They don't seem to answer all questions completely but to raise new questions, cause others to look at information in a different way and ultimately lead to new ways of doing research.
+
+"Space is itself historical. Lefebvre, who was a philosopher and not a geographer, organized his own work around three forms of space that he called spatial practice, representations of space, and representational space. "
+
+I am still slightly confused bt the differences between the three forms and make need some other examples to fully understand.
+
+Shnayder Reading: A Data Model for Spatial History
+
+"One of the most important aspects of the geodatabase is its flexibility in adding new data. If the Western Railroads Geodatabase can best be described as a container, then it is also a container that can expand to accommodate new data."
+
+What programs are used to connect new data to old data? Is data entered in connection with other data, or is it entered as singluar information?
+
+"The growth of the railroads transformed American society not only through the economy, but also through perceptions of space and time."
+
+It would also be interesting to see how railroads affected the settlement of people in the West, and if they placement on the railroads were politcally or socially charged.
+
+American Panorama
+
+Crampton Reading
+
+
+
+
 
 ### 2017-10-23: Mapping: A Critical Introductin
 
