@@ -142,9 +142,19 @@ It would also be interesting to see how railroads affected the settlement of peo
 
 American Panorama
 
+I think it is interesting the variety of topics this series explores, and allows the iewer to explore in ways they want to , there is not a formula they have to follow when exploring.
+
+
+For the different layouts of the american panorama maps, are the programs used tocreate the maps different or is it just related to specific coding language?
 Crampton Reading
 
-"
+" For there is a second silence. Cartographers and GIS practitioners themselves have had very little to say about politics, power, discourse, postcolonial resistance, and the other topics that fascinate large swath sof geography and the social sciences."
+
+I agree with Crampton that these individuals should not be afraid to explore with theese tools if they are using them for the moral means and are self aware of potential biases when creating and definiting boundaries.
+
+"These different directions can be broadly described as a trend toward "securitization" of knowledge in the one direction and "resistances" in the other. Securitization of information refers to the efforts that are made to anchor, control, and discipline geographical knowledges."
+
+I don't quite understand the difference between the trends of securitization and resistance.
 
 
 
