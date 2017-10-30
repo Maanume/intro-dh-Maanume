@@ -7,9 +7,12 @@ Here in your repository, write your answers to the following:
 
 (1) Formulate the humanities question(s) guiding the project. 
 
+How did WWII and the Blitz change how Britons understood and experienced London?
 
 (2) Provide a one-paragraph abstract written for a nonspecialist audience, clearly explaining the project’s principal activities and its expected results.
 
+  At the beginning of WWII, Britain and specifically London experienced great destruction and damage from German bombers in a 
+in a lasting event known as the Blitz. From September 1940 to May 1941, Britain was under constant threat from German air fleets. I hope to research and create a project detailing how the events of the Blitz changed how Britons engaged with the city of London and how the damage and destruction redefined the space. I hope to see how the Blitz affected the understanding London in a way that is different from the period before the war. The methods used will be ArchGIS
 The characterstics of a strong abstract:
 
 - explains the humanities question(s) guiding the project
